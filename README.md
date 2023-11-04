@@ -9,13 +9,13 @@ First, run the development server:
 - Step 1 : clone the repository
 
 ```bash
-git clone git@github.com:devnrj07/tiger-hall-assignment.git
+git clone https://github.com/fullstackNRJ/Tigerhall-assignment.git
 ```
 
 - Step 2 : install dependencies
 
 ```bash
-cd tiger-hall-assignment && npm i
+cd Tigerhall-assignment && npm i
 ```
 
 - Step 3 : Start local development server
